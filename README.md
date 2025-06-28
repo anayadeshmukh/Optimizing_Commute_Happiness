@@ -18,12 +18,15 @@ A data-driven project exploring how **weather**, **road quality**, **green cover
 
 ## Tools & Technologies
 
-- **Data Collection**: Google Forms, Google Sheets, Python (APIs)
-- **Data Cleaning**: Excel, Python (Pandas)
-- **Visualization**: Power BI / Tableau
-- **Automation**: Python scripts
-- **(Optional)**: MySQL for structured data storage
-
+- **Data Collection**: Google Forms, Google Sheets, Google Maps API, OpenWeather API, Google Earth Engine
+- **Data Storage & Management**: Excel, CSV, (Optional) MySQL
+- **Data Cleaning & Preprocessing**: Python (Pandas, NumPy), Excel
+- **Exploratory Data Analysis (EDA)**: Python (Matplotlib, Seaborn), Power BI, Tableau
+- **Automation & Integration**: Python scripts (for real-time API data pulls and automation)
+- **Dashboards & Reporting**: Power BI, Tableau, Excel (Pivot Charts)
+- **Machine Learning (Basic)**: Scikit-learn (for correlation analysis, classification of mode preferences, or clustering if implemented)
+- **Version Control & Documentation**: Git, GitHub
+  
 ---
 
 ## Key Metrics
